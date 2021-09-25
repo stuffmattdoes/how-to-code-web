@@ -5,9 +5,9 @@
 
 ### 🤔 🧐 😓 Intruged by coding, told yourself *"I could never learn to do that"*?
 
-### 🧠 💡 😖 Had an app idea for a while, not sure how to actually make it?
+### 🧠 💡 😖 Have app idea, don't know how to actually make it?
 
-### 👵🏽 🧓🏼 👴🏻 Already years into a career, but hit the ceiling or lost enthusiasm?
+### 👵🏽 🧓🏼 👴🏻 Already invested years into another career, but need to make a change?
 &nbsp;
 
 Whatever your situation is, you've found the right teacher. My name is Matthew Morrison, and I'll be your guide to demystifying and learning the skillset of web development that will transform your professional life forever. ***Right now is a FANTASTIC time to be a web developer***. Through the genius invention of computers and the digital universe, web developers have the potential tp reach milions and millions of people around the world and ***EARN a luxurious living in doing so***. While coding for the web is not a walk in the park, I will help you see that ***this skillset is TOTALLY ACCESSIBLE to you right now***. What I'll need from you is to put in the work.
@@ -48,18 +48,20 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
     * How does my browser consume JS?
       * Re-introduction to JavaScript
     * Introduction to Browser Dev Tools "Console" tab
-1. [Accessibility](#) ***(coming soon)***
+1. [Web Accessibility](#) ***(coming soon)***
     * What is web accessibility?
     * Why is it important?
-    * Let's audit our Resume web app for accessibility
-1. [Security](#) ***(coming soon)***
+    * Auditing my Resume web app for accessibility
+1. [Web Security](#) ***(coming soon)***
     * What do I need to know about web security?
-1. [Upload to the Web!](#) ***(coming soon)***
-    * Introduction to hosting & accessing your new interactive resume on GitHub Pages
+    * Web security best practices
+1. [Upload to the Public Web!](#) ***(coming soon)***
+    * Introduction to GitHub
+    * Uploading my Resume web app for the world to see!
 1. [Books & resource recommendations](#) ***(coming soon)***
 
 
-### Advanced Web Development: ***(coming eventually)***
+### Advanced Web Development: Adding Inquiries & Contact Forms To Your Resume Web App***(coming eventually)***
 1. Git Fundamentals
 1. More JavaScript
 1. JavaScript Libraries & Frameworks - React
@@ -68,7 +70,7 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 1. Debugging
 1. Unit Testing 
 
-### Expert Web Development: Adding Blog to your Resume Website ***(coming eventually)***
+### Expert Web Development: Adding Blog to your Resume Web App ***(coming eventually)***
 1. Design
 1. Advanced React
 1. App Performance
