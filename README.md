@@ -6,7 +6,7 @@
 
 ### 🤔 🧐 😓 "Coding is so neat, but I could NEVER learn to do that..."
 
-### 🧠 💡 😖 "I've got a neat app idea, but I have NO IDEA how to make it..."
+### 🧠 💡 😖 "I've got a great app idea, but I have NO IDEA how to make it..."
 
 ### 🌧 ⏳ 😰 "I've invested years in a career I've no enthusiasm for, I need to MAKE A CHANGE..."
 
