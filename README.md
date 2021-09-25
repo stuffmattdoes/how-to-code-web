@@ -1,11 +1,13 @@
 # How To Code And Make Web Applications
 &nbsp;
 
-### 🤔 🧐 😓 Are you intruged by coding but told yourself *"I could never learn to do that"*?
+### IS THIS YOU?
 
-### 🧠 💡 😖 Maybe you've had an app idea for a while, but you're not sure how to make it a reality?
+### 🤔 🧐 😓 Intruged by coding, told yourself *"I could never learn to do that"*?
 
-### 👵🏽 🧓🏼 👴🏻 Perhaps you're years into a career which you've hit the ceiling or lost enthusiasm for?
+### 🧠 💡 😖 Had an app idea for a while, not sure how to actually make it?
+
+### 👵🏽 🧓🏼 👴🏻 Already years into a career, but hit the ceiling or lost enthusiasm?
 &nbsp;
 
 Whatever your situation is, you've found the right teacher. My name is Matthew Morrison, and I'll be your guide to demystifying and learning the skillset of web development that will transform your professional life forever. ***Right now is a FANTASTIC time to be a web developer***. Through the genius invention of computers and the digital universe, web developers have the potential tp reach milions and millions of people around the world and ***EARN a luxurious living in doing so***. While coding for the web is not a walk in the park, I will help you see that ***this skillset is TOTALLY ACCESSIBLE to you right now***. What I'll need from you is to put in the work.
@@ -57,7 +59,7 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 1. [Books & resource recommendations](#) ***(coming soon)***
 
 
-### Advanced Web Development: ***(coming soon)***
+### Advanced Web Development: ***(coming eventually)***
 1. Git Fundamentals
 1. More JavaScript
 1. JavaScript Libraries & Frameworks - React
@@ -66,7 +68,7 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 1. Debugging
 1. Unit Testing 
 
-### Expert Web Development: Adding Blog to your Resume Website ***(coming soon)***
+### Expert Web Development: Adding Blog to your Resume Website ***(coming eventually)***
 1. Design
 1. Advanced React
 1. App Performance
