@@ -82,7 +82,6 @@ Now that you're estabished and comfortable with the ceoncepts of web development
 3. ibraries & Frameworks - Bootstrap
 4. More JavaScript
 6. Libraries & Frameworks - React
-
 6. APIs
 7. Chat Support/Inquiry Bubble popup
 8. Debugging
