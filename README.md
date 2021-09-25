@@ -96,7 +96,7 @@ Here is where your web development chops will be truly tested. This is where you
 1. Local & Session Storage
 1. Building an API
 1. Databases
-1. SEO
+1. Open-Source Chops
 
 ## Actually Making Money With Web Development: ***(coming eventually)***
 This is the lesson you've been waiting for! Where other courses fail to recognize the importance of translating your new skillset into MONEY, we will do a deep dive to get you PAID. After all, what good are your skills if you can't apply them?
