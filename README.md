@@ -1,5 +1,5 @@
 # How To Code And Make Web Applications For Absolute Beginners
-### 💸 💸 💸 And How To Earn Money Doing It 💸 💸 💸 
+### 💸 💸 💸 And How To ACTUALLY Earn Money Doing It 💸 💸 💸 
 &nbsp;
 
 ### THIS YOU?:
@@ -12,18 +12,20 @@
 
 &nbsp;
 
-Whatever your situation is, you've found the right teacher. My name is Matthew Morrison, and I'll be your guide to demystifying and learning the skillset of web development that will transform your professional life forever. ***Right now is a FANTASTIC time to be a web developer***. Through the genius invention of computers and the digital universe, web developers have the potential tp reach milions and millions of people around the world and ***EARN a luxurious living in doing so***. While coding for the web is not a walk in the park, I will help you see that ***this skillset is TOTALLY ACCESSIBLE to you right now***. What I'll need from you is to put in the work.
+Whatever your situation is, you've found the right teacher. My name is Matthew Morrison, and I'll be your guide to demystifying and learning the skillset of web development that will transform your professional life forever. ***Right now is a FANTASTIC time to be a web developer***. Through the genius invention of computers and the digital universe, web developers have the potential tp reach milions and millions of people around the world and ***EARN a luxurious living in doing so***. I will help you see that ***this skillset is TOTALLY ACCESSIBLE to you right now***, even if you have never once touched a line of code before. What I'll need from you is to put in the work.
 
-## Are you ready? Let's GO!
+### Are you ready? Let's GO!
 &nbsp;
 
-### Beginner Web Development:
-#### Bulding a Resume Web App
+## Beginner Web Development:
+### Bulding a Resume Web App
+Your web-development journey begins with an introduction to the web that will get you moving quickly into coding. We'll not only learn the basics of web development, but we will apply them into building a simple interactive web app of our very own resume!
 
 1. [Web Development](#) ***(coming soon)***
    * What is it?
    * Why do it?
    * How much money can I expect to earn as a full-time web developer?
+   * Can web-development be a long-term career?
 3. [A Day In The Life of a Full-Time Web Developer](#) ***(coming soon)***
    * How much of my day is spent building new web apps?
    * How much of my day is spent fixing existing web apps?
@@ -71,8 +73,10 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 14. [Books & resource recommendations](#) ***(coming soon)***
 
 
-### Advanced Web Development: ***(coming eventually)***
-#### Adding Inquiries & Contact Forms To Your Resume Web App
+## Intermediate Web Development: ***(coming eventually)***
+### Adding Inquiries & Contact Forms To Your Resume Web App
+Now that you're estabished and comfortable with the ceoncepts of web development, we'll expand into intermediate territory. We'll add some new features to your Resume web app which you completed in the beginner course as a vessel to continue your learning. We'll improve on the basics (HTML, CSS, JS), introduce the concept of libraries and frameworks, and integrate with web app services created by other companies to allow visitors to our Resume to contact us with job opportunities!
+
 1. Git Fundamentals
 2. More CSS
 3. ibraries & Frameworks - Bootstrap
@@ -84,8 +88,9 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 8. Debugging
 9. Unit Testing 
 
-### Advanced Web Development: ***(coming eventually)***
-#### Adding Blog to your Resume Web App
+## Advanced Web Development: ***(coming eventually)***
+### Adding Blog to your Resume Web App
+Here is where your web development chops will be truly tested. This is where your learnings from Beginner & Intermediate Web Development courses will be put up against the expectations of a full-time web developer. Be aware - this course is not for the faint of heart. Maturing into advanced web development will require your full attention and focus.
 1. Design
 1. Advanced React
 1. App Performance
@@ -94,12 +99,16 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 1. Databases
 1. SEO
 
-### Making Money With Web Development: ***(coming eventually)***
-1. Where to start?
+## Actually Making Money With Web Development: ***(coming eventually)***
+This is the lesson you've been waiting for! Where other courses fail to recognize the importance of translating your new skillset into MONEY, we will do a deep dive to get you PAID. After all, what good are your skills if you can't apply them?
+1. How to start?
+    * How to pitch your new skills
+    * How to nail the interview
+    * How to negotiate your salary
+3. Where to look?
       * Within your current company
-      * Local companies hiring full-to-part-time
-      * Freelance
-      * Nailing the interview
-1. How to advance?
-      * Negotiating your salary
+      * Online job boards
+      * Getting Freelance gigs
+4. How to advance?
+      * Negotiating your raise
       * Continued Learning Resources
