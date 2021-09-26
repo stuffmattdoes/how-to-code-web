@@ -27,10 +27,9 @@ Your web-development journey begins with an introduction to the web that will ge
    * How much money can I expect to earn as a full-time web developer?
    * Can web-development be a long-term career?
 3. [A Day In The Life of a Full-Time Web Developer](#) ***(coming soon)***
-   * How much of my day is spent building new web apps?
-   * How much of my day is spent fixing existing web apps?
-   * How much of my day is spent collaborating with teammates?
-   * How much of my day is spent coding?
+    * What things can I expect to spend my time on?
+    * What are the exciting parts about web development?
+    * What are the boring parts about web development?
 5. [Web 101](#) - The Fundamentals ***(coming soon)***
     * What really is "The Web"?
     * How does The Web work?
