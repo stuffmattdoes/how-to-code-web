@@ -12,13 +12,13 @@
 
 &nbsp;
 
-Whatever your situation is, you've found the right teacher. My name is Matthew Morrison, and I'll be your guide to demystifying and learning the skillset of web development that will transform your professional life forever. ***Right now is a FANTASTIC time to be a web developer***. Through the genius invention of computers and the digital universe, web developers have the potential tp reach milions and millions of people around the world and ***EARN a luxurious living in doing so***. I will help you see that ***this skillset is TOTALLY ACCESSIBLE to you right now***, even if you have never once touched a line of code before. What I'll need from you is to put in the work.
+Whatever your situation is, you've found the right teacher. My name is Matthew Morrison, and I'll be your guide to demystifying and learning the skillset of web development that will transform your professional life forever. ***Right now is a FANTASTIC time to be a web developer***. Through the genius invention of computers and the digital universe, web developers have the potential to reach milions and millions of people around the world and ***EARN a luxurious living in doing so***. I will help you see that ***this skillset is TOTALLY ACCESSIBLE to you right now***, even if you have never once touched a line of code before. What I'll need from you is to put in the work.
 
 ### Are you ready? Let's GO!
 &nbsp;
 
 ## Beginner Web Development:
-### Bulding a Resume Web App
+### Building a Resume Web App
 Your web-development journey begins with an introduction to the web that will get you moving quickly into coding. We'll not only learn the basics of web development, but we will apply them into building a simple interactive web app of our very own resume!
 
 1. [Web Development](#) ***(coming soon)***
@@ -50,7 +50,7 @@ Your web-development journey begins with an introduction to the web that will ge
 8. [HTML (Hypertext Markup Language)](#) - The "informational" layer of a website ***(coming soon)***
     * How does my browser consume HTML?
       * Re-Introduction to HTML
-    * Let# s write some HTML
+    * Let's write some HTML
     * Introduction to Browser Dev Tools "Elements" tab
 9. [CSS (Cascading Style Sheets)](#) - The "appearance" layer of a website ***(coming soon)***
     * How does my browser consume CSS?
@@ -75,7 +75,7 @@ Your web-development journey begins with an introduction to the web that will ge
 
 ## Intermediate Web Development: ***(coming eventually)***
 ### Adding Inquiries & Contact Forms To Your Resume Web App
-Now that you're estabished and comfortable with the ceoncepts of web development, we'll expand into intermediate territory. We'll add some new features to your Resume web app which you completed in the beginner course as a vessel to continue your learning. We'll improve on the basics (HTML, CSS, JS), introduce the concept of libraries and frameworks, and integrate with web app services created by other companies to allow visitors to our Resume to contact us with job opportunities!
+Now that you're estabished and comfortable with the concepts of web development, we'll expand into intermediate territory. We'll add some new features to your Resume web app which you completed in the beginner course as a vessel to continue your learning. We'll improve on the basics (HTML, CSS, JS), introduce the concept of libraries and frameworks, and integrate with other professional web app services to allow visitors to our Resume to contact us with job opportunities!
 
 1. Git Fundamentals
 2. More CSS
