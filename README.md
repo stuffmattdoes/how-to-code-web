@@ -79,7 +79,7 @@ Now that you're estabished and comfortable with the ceoncepts of web development
 
 1. Git Fundamentals
 2. More CSS
-3. ibraries & Frameworks - Bootstrap
+3. Libraries & Frameworks - Bootstrap
 4. More JavaScript
 6. Libraries & Frameworks - React
 6. APIs
@@ -91,12 +91,14 @@ Now that you're estabished and comfortable with the ceoncepts of web development
 ### Adding Blog to your Resume Web App
 Here is where your web development chops will be truly tested. This is where your learnings from Beginner & Intermediate Web Development courses will be put up against the expectations of a full-time web developer. Be aware - this course is not for the faint of heart. Maturing into advanced web development will require your full attention and focus.
 1. Design
-1. Advanced React
-1. App Performance
-1. Local & Session Storage
-1. Building an API
-1. Databases
-1. Open-Source Chops
+2. SASS
+3. Advanced React
+4. TypeScript
+5. App Performance
+6. Local & Session Storage
+7. Building an API
+8. Databases
+9. Open-Source Chops
 
 ## Actually Making Money With Web Development: ***(coming eventually)***
 This is the lesson you've been waiting for! Where other courses fail to recognize the importance of translating your new skillset into MONEY, we will do a deep dive to get you PAID. After all, what good are your skills if you can't apply them?
