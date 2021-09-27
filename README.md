@@ -30,7 +30,7 @@ Your web-development journey begins with an introduction to the web that will ge
     * What things can I expect to spend my time on?
     * What are the exciting parts about web development?
     * What are the boring parts about web development?
-5. [Web 101](#) - The Fundamentals ***(coming soon)***
+5. [Web Fundamentals](#) ***(coming soon)***
     * What really is "The Web"?
     * How does The Web work?
     * What's the difference between a "website" and a "web app"?
