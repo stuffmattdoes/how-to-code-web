@@ -1,4 +1,4 @@
-# 1. Web Fundamentals
+# 3. Web Fundamentals
 Welcome to your first lesson! We will be talking about "Then Web" here for a moment. While this information isn't going to instill technical mastery in you just yet, it will surely lay the foundation for everything else you will learn through this course. No action is necessary, just reading.
 
 ## What really is "The Web"?
