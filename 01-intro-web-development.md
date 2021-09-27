@@ -1,5 +1,4 @@
-# Intro to Web Development
-
+# 1. Intro to Web Development
 ## What is it?
 ## Why do it?
 ## How much money can I expect to earn as a full-time web developer?
