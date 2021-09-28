@@ -1,7 +1,9 @@
 # 5. Design Overview
 Our journey to creating applications for the internet starts with design and planning. Before you - our esteemed coder - ever touches a line of code, there have been countless hours poured into just what this application aims to achieve and how someone can use it with ease. As an engineer, you aren't typically required to be responsible for the design; however, since you will likely work with a designer, it is imperative that you understand the process.
 
-To help relay this information, ***let's compare the process of building your web application just like the process of building your house***. Designing for the web is comparable to the architecting of your house - though nothing is built at this point, there is much planning. In order to orchestrate all of the contractors and builders to ensure your home actually gets built in a timely manner, we must first know exactly what we are building. Just as the web application design process produces a visual design for you to code, the home architecture process will produce a blueprint for contractors to reference.
+***To help relay this information, let's compare the process of building your web application just like the process of building your house***.
+
+Designing for the web is comparable to the architecting of your house - though nothing is built at this point, there is much planning. In order to orchestrate all of the contractors and builders to ensure your home actually gets built in a timely manner, we must first know exactly what we are building. Just as the web application design process produces a visual design for you to code, the home architecture process will produce a blueprint for contractors to reference.
 
 ## The Design Process
 The typical design process consists of the following steps:
