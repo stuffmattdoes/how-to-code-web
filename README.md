@@ -21,12 +21,12 @@ Whatever your situation is, you've found the right teacher. My name is Matthew M
 ### Building a Resume Web App
 Your web-development journey begins with an introduction to the web that will get you moving quickly into coding. We'll not only learn the basics of web development, but we will apply them into building a simple interactive web app of our very own resume!
 
-1. FREE COURSE - [Web Development](./01-intro-web-development.md) ***(coming soon)***
+1. **FREE COURSE** - [Web Development](./01-intro-web-development.md) ***(coming soon)***
    * What is it?
    * Why do it?
    * How much money can I expect to earn as a full-time web developer?
    * Can web-development be a long-term career?
-3. FREE COURSE - [A Day In The Life of a Full-Time Web Developer](./02-day-in-the-life.md) ***(coming soon)***
+3. **FREE COURSE** - [A Day In The Life of a Full-Time Web Developer](./02-day-in-the-life.md) ***(coming soon)***
     * What things can I expect to spend my time on?
     * What are the exciting parts about web development?
     * What are the boring parts about web development?
