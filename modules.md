@@ -40,9 +40,12 @@
         * inline `style` element attribute
     * Intro to Browser Dev Tools "styles" pane
 2. Intermediate
-    * 
+    * External style sheets
+    * Selector specificity
+    * Naming conventions
+    * Libraries & frameworks
 3. Advanced
-    * 
+    * SCSS
 
 ## JavaScript (JS)
 1. Fundamentals
@@ -53,7 +56,7 @@
         * `document` and `window` objects
     * Intro to Browser Dev Tools "Console" tab
 2. Intermediate
-    * External scripts with `<script src="external-script.js">
+    * External scripts
     * `addEventListener`
 3. Advanced
     * 
