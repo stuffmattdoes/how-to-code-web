@@ -65,6 +65,7 @@ Your web-development journey begins with an introduction to the web that will ge
     * Auditing my Resume web app for accessibility
 12. [Web Security](#) ***(coming soon)***
     * What do I need to know about web security?
+    * HTTP vs HTTPS
     * Web security best practices
 13. [Upload to the Public Web!](#) ***(coming soon)***
     * Introduction to GitHub
@@ -96,7 +97,7 @@ Here is where your web development chops will be truly tested. This is where you
 5. App Performance
 6. Local & Session Storage
 7. Advanced Web Concepts
-  * HTTP vs HTTPS
+  * Generating an SSL Certificate
 8. Building an API
 9. Databases
 10. Development Environments
