@@ -35,7 +35,7 @@ Your web-development journey begins with an introduction to the web that will ge
     * How does The Web work?
     * What's the difference between a "website" and a "web app"?
     * How do I create an interactive website or application from just coding?
-      * Overview of HTML, CSS and JavaScript
+    * Overview of HTML, CSS and JavaScript
 6. [Let's Get Set Up](#) ***(coming soon)***
     * What kind of computer and hardware do I need?
     * What kind of applications should I install?
@@ -48,16 +48,13 @@ Your web-development journey begins with an introduction to the web that will ge
       * Downloadable as .PDF file
 8. [HTML (Hypertext Markup Language)](#) - The "informational" layer of a website ***(coming soon)***
     * How does my browser consume HTML?
-      * Getting into HTML
     * Let's write some HTML
     * Introduction to Browser Dev Tools "Elements" tab
 9. [CSS (Cascading Style Sheets)](#) - The "appearance" layer of a website ***(coming soon)***
     * How does my browser consume CSS?
-      * Getting into CSS
-      * Introduction to Browser Dev Tools "styles" pane
+    * Introduction to Browser Dev Tools "styles" pane
 10. [JavaScript (JS)](#) - The "interactive" layer of a website ***(coming soon)***
     * How does my browser consume JS?
-      * Getting into JavaScript
     * Introduction to Browser Dev Tools "Console" tab
 11. [Web Accessibility](#) ***(coming soon)***
     * What is web accessibility?
