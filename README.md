@@ -1,5 +1,5 @@
 # How To Code And Make Web Applications For Absolute Beginners
-### 💸 💸 💸 And How To ACTUALLY Earn Money Doing It 💸 💸 💸 
+### 💸 💸 💸 And How To actually EARN MONEY Doing It 💸 💸 💸 
 &nbsp;
 
 ### THIS YOU?:
