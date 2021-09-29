@@ -48,16 +48,16 @@ Your web-development journey begins with an introduction to the web that will ge
       * Downloadable as .PDF file
 8. [HTML (Hypertext Markup Language)](#) - The "informational" layer of a website ***(coming soon)***
     * How does my browser consume HTML?
-      * Re-Introduction to HTML
+      * Getting into HTML
     * Let's write some HTML
     * Introduction to Browser Dev Tools "Elements" tab
 9. [CSS (Cascading Style Sheets)](#) - The "appearance" layer of a website ***(coming soon)***
     * How does my browser consume CSS?
-      * Re-introduction to CSS
+      * Getting into CSS
       * Introduction to Browser Dev Tools "styles" pane
 10. [JavaScript (JS)](#) - The "interactive" layer of a website ***(coming soon)***
     * How does my browser consume JS?
-      * Re-introduction to JavaScript
+      * Getting into JavaScript
     * Introduction to Browser Dev Tools "Console" tab
 11. [Web Accessibility](#) ***(coming soon)***
     * What is web accessibility?
