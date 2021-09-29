@@ -36,11 +36,11 @@ Your web-development journey begins with an introduction to the web that will ge
     * What's the difference between a "website" and a "web app"?
     * How do I create an interactive website or application from just coding?
       * Overview of HTML, CSS and JavaScript
-6. [Let's get set up](#) ***(coming soon)***
+6. [Let's Get Set Up](#) ***(coming soon)***
     * What kind of computer and hardware do I need?
     * What kind of applications should I install?
     * Are there any existing web applications I can use to make my own web app?
-7. [Design overview](#) ***(coming soon)***
+7. [Design Overview](#) ***(coming soon)***
     * What is design?
     * Why is web app *design* separate from web app *development*?
     * Let's look at the design of our finished Resume Web App:
@@ -71,20 +71,20 @@ Your web-development journey begins with an introduction to the web that will ge
     * Uploading my Resume web app for the world to see!
 14. [Books & resource recommendations](#) ***(coming soon)***
 
-
 ## Intermediate Web Development: ***(coming eventually)***
 ### Adding Inquiries & Contact Forms To Your Resume Web App
 Now that you're estabished and comfortable with the concepts of web development, we'll expand into intermediate territory. We'll add some new features to your Resume web app which you completed in the beginner course as a vessel to continue your learning. We'll improve on the basics (HTML, CSS, JS), introduce the concept of libraries and frameworks, and integrate with other professional web app services to allow visitors to our Resume to contact us with job opportunities!
 
-1. Git Fundamentals
-2. More CSS
-3. Libraries & Frameworks - Bootstrap
-4. More JavaScript
-6. Libraries & Frameworks - React
-6. APIs
-7. Chat Support/Inquiry Bubble popup
-8. Debugging
-9. Unit Testing 
+5. More CSS
+6. Libraries & Frameworks - Bootstrap
+7. More JavaScript
+8. Libraries & Frameworks - React
+9. APIs
+10. Chat Support/Inquiry Bubble popup
+11. Intro to Command Line Interface (CLI)
+12. Debugging
+13. Unit Testing
+14. Intro to Git Technology
 
 ## Advanced Web Development: ***(coming eventually)***
 ### Adding Blog to your Resume Web App
@@ -95,9 +95,15 @@ Here is where your web development chops will be truly tested. This is where you
 4. TypeScript
 5. App Performance
 6. Local & Session Storage
-7. Building an API
-8. Databases
-9. Open-Source Chops
+7. Advanced Web Concepts
+  * HTTP vs HTTPS
+8. Building an API
+9. Databases
+10. Development Environments
+  * Local
+  * Staging
+  * Production
+12. Open-Source Chops
 
 ## Actually Making Money With Web Development: ***(coming eventually)***
 This is the lesson you've been waiting for! Where other courses fail to recognize the importance of translating your new skillset into MONEY, we will do a deep dive to get you PAID. After all, what good are your skills if you can't apply them?
