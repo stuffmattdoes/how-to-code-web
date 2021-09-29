@@ -65,8 +65,8 @@ Your web-development journey begins with an introduction to the web that will ge
     * HTTP vs HTTPS
     * Web security best practices
 13. [Upload to the Public Web!](#) ***(coming soon)***
+    * How can I make my web app accessible on the Web for anyone to see?
     * Introduction to GitHub
-    * Uploading my Resume web app for the world to see!
 14. [Books & resource recommendations](#) ***(coming soon)***
 
 ## Intermediate Web Development: ***(coming eventually)***
