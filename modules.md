@@ -24,8 +24,8 @@
 1. Fundamentals
     * How does my browser consume HTML?
     * Let's write some HTML
-        * The DOM: `<head/>`, `<body>`
-        * Common tags: `<div/>`, `<img/>`, `<h1/>`, `<p/>`
+        * The DOM: `<html/>`, `<head/>`, `<body>`
+        * Common tags: `<div/>`, `<img/>`, `<h1/>`, `<p/>`, and more
     * Intro to Browser Dev Tools "Elements" tab
 2. Intermediate
     * 
@@ -36,6 +36,8 @@
 1. Fundamentals
     * How does my browser consume CSS?
     * Let's write some CSS
+        * DOM `<style/>` tag
+        * inline `style` element attribute
     * Intro to Browser Dev Tools "styles" pane
 2. Intermediate
     * 
@@ -46,9 +48,13 @@
 1. Fundamentals
     How does my browser consume JS?
     * Let's write some JS
+        * DOM `<script/>` tag
+        * inline element event handlers
+        * `document` and `window` objects
     * Intro to Browser Dev Tools "Console" tab
 2. Intermediate
-    * 
+    * External scripts with `<script src="external-script.js">
+    * `addEventListener`
 3. Advanced
     * 
 
