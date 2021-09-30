@@ -5,7 +5,9 @@ Welcome to your first lesson! If you're still here, you're still curious. Great!
 To start, let's define some terms. A ***"web developer" is someone who makes applications for the internet***. This is quite a general phrase, so let's further break that down into the most fundamental roles of a web development team.
 
 ### 1. Design
-### 2. Engineer
+### 2. Engineering
+  * Front-end
+  * Back-end
 ### 3. Testing
 ### 4. (Honorable mention) Developer Operations (A.K.A. "DevOps")
 
