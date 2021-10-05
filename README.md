@@ -92,9 +92,10 @@ Now that you're estabished and comfortable with the concepts of web development,
     * Introducing "asynchronous" behavior
     * Implementing Chat Support/Inquiry Bubble popup
 11. Learning the Command Line Interface (CLI)
-  * Intro to Git Technology
+    * Intro to Git Technology
 13. Unit Testing
 14. Web Security - level 2
+    * VPN
 
 ## Advanced Web Development: ***(coming eventually)***
 ### Adding Blog to your Resume Web App
