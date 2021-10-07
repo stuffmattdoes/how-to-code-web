@@ -114,9 +114,11 @@ Here is where your web development chops will be truly tested. This is where you
     * Local
     * Staging
     * Production
-12. Open-Source Chops
-13. More on Git Technology
+12. More on Git Technology
     * Deploying our app with Git
+13. Web Security
+    * Public key cryptopgraphy & signature
+14. Open-Source Chops
 
 ## Actually Making Money With Web Development: ***(coming eventually)***
 This is the lesson you've been waiting for! Where other courses fail to recognize the importance of translating your new skillset into MONEY, we will do a deep dive to get you PAID. After all, what good are your skills if you can't apply them?
