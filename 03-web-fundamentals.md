@@ -10,7 +10,7 @@ To begin your journey to earning money with web development, let's talk about wh
 "The internet" and "the web" are frequently referred to as one in the same, but indeed they are distinct!
 
 ## How does The Web work?
-Let's talk about how the web actually works (in tandem with the internet). To do this, let's investigate what happens between the time you type a URL into a browser and when that same website is finished loading - more technically known as **The HyperText Transfer Protocol (HTTP) Life Cycle**
+Let's talk about how the web actually works (in tandem with the internet). To do this, let's investigate what happens between the time you type a URL into a browser and when that same website is finished loading. This is more technically known as **The HyperText Transfer Protocol (HTTP) Life Cycle**
 
 ### The HTTP Life Cycle
 2. Client Request (www.github.com)
