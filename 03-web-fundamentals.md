@@ -7,7 +7,7 @@ To begin your journey to earning money with web development, let's talk about wh
 - **The Internet** is the physical network of cables and computers spanning all around the globe, as well as the protocol by which information can travel across it. You can think of the internet as your nervous system, whose layout spans your whole body.
 - **The Web** is the software, websites, media, and information itself that travels through the internet. You can think of the web as the signals sent through your nervous system to various parts of your body to ultimately converge in your brain.
 
-"The internet" and "the web" are frequently referred to as one in the same, but indeed they are distinct! Admittedly, I use them interchangeably myself, as you'll see throughout this course.
+"The internet" and "the web" are frequently referred to as one in the same, but indeed they are distinct! Admittedly, I use them interchangeably myself, as you'll see throughout this course. Our job as a web developer isn't to fret over this difference, but to deliver a useful experience to someone in the world.
 
 ## How does The Web work?
 Let's talk about how the web actually works (in tandem with the internet). To do this, let's investigate what happens between the time you type a URL into a browser and when that same website is finished loading. This is more technically known as **The HyperText Transfer Protocol (HTTP) Life Cycle**
