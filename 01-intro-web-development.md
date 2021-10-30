@@ -28,7 +28,7 @@ It's alright if these don't quite make sense just yet - as we build out our own 
 ### Why are there so many programming languages? Why can't my web app use just one?
 This was one of the first questions I asked as I began my journey into web development. Simply put - because technology evolves! To understand how the modern web came to be, let's take a look back at its origins.
 
-**[The Web was proposed in 1989](https://www.w3.org/History/1989/proposal.html)** alongisde its flagship language HTML, and published in 1991. The primitive web was created out of necessity for scientists to store information more reliably and to share it more easily. While the early web quickly implemented styling and behavior, they were extremely limited and inconsistent compared to what we enjoy today.
+**[The Web was proposed in 1989](https://www.w3.org/History/1989/proposal.html)** alongisde its flagship language HTML, and published in 1991. The primitive web was created out of necessity for scientists to store information more reliably and to share it more easily. While the early web soon implemented styling and behavior, they were extremely limited and inconsistent compared to what we enjoy today.
 
 The desire for website styling to be more consistent prompted **[the proposal of CSS in 1994](https://www.w3.org/People/howcome/p/cascade.html)**. This introduced us to the idea of a "cascade," or styling hierarchy, as well as organizing such styles in a _style sheet_ separate from HTML. CSS was first adopted for commercial use by Microsoft in their Internet Explorer 3 browser in 1996.
 
