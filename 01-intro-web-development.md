@@ -26,6 +26,17 @@ health and operation of the application to ensure it is ready and accessible to 
 It's alright if these don't quite make sense just yet - as we build out our own application, we're going to act as ALL of these! I'll be sure to highlight As we cross over from one domain into another.
 
 ### Why are there so many programming languages? Why can't my web app use just one?
+This was one of the first questions I asked as I began my journey into web development. Simply put - because technology evolves! To understand how the modern web came to be, let's take a look back at its origins.
+
+**[The Web was proposed in 1989](https://www.w3.org/History/1989/proposal.html)** alongisde its flagship language HTML, and published in 1991. The primitive web was created out of necessity for scientists to store information more reliably and to share it more easily. While the early web quickly implemented styling and behavior, they were extremely limited and inconsistent compared to what we enjoy today.
+
+The desire for website styling to be more consistent prompted **[the proposal of CSS in 1994](https://www.w3.org/People/howcome/p/cascade.html)**. This introduced us to the idea of a "cascade," or styling hierarchy, as well as organizing such styles in a _style sheet_ separate from HTML. CSS was first adopted for commercial use by Microsoft in their Internet Explorer 3 browser in 1996.
+
+Finally, we bid farewell to stagnant web pages with **[JavaScript's invention in 1995](http://speakingjs.com/es5/ch04.html)**. The team at Netscape recognized web page's inclination for interactivity and satisfied it with the release of the Netscape Navigator 2.0 browser - the first browser to implement JavaScript.
+
+Today, the most popular browsers - such as Google Chrome, FireFox, Safari, and Brave - all implement the base languages of HTML, CSS, and JavaScript!
+
+Tomorrow, who knows how we'll be making web applications?
 
 ## How much money can I expect to earn as a full-time web developer?
 
