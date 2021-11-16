@@ -85,11 +85,12 @@ Here is where your web development chops will be truly tested. This is where you
 2. SASS
 3. Advanced React
 4. TypeScript
-5. App Performance
-6. Local & Session Storage
-7. Advanced Web Concepts
+5. What Are CJS, AMD, UMD, and ESM in Javascript?
+6. App Performance
+7. Local & Session Storage
+8. Advanced Web Concepts
     * Generating an SSL Certificate
-8. Building an API
+9. Building an API
 10. Databases
 11. Development Environments
     * Local
