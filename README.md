@@ -25,9 +25,9 @@ Through *How to Code for Absolute Beginners), you will be equipped to answer:
 <sub><sup>**I will also show you how coding totally isn't just for nerds, but a valuable and in-demand skill that can reward you for the rest of your career.</sup></sub>
 
 THIS COURSE IS NOT:
-❌ Going to get you rich quickly
-❌ Going to land you a job
-❌ Something you can 
+❌ Going to get you rich quickly<br/>
+❌ Going to land you a job<br/>
+❌ Quick and simple<br/>
 
 THIS COURSE IS:
 🤝 For the dedicated, self-motivated person (you) looking to improve their lifestyle with a career in an exciting and promising industry.
